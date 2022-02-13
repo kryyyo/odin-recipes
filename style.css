@@ -1,0 +1,63 @@
+* {
+    text-align: center;
+}
+h1 {
+    color: white;
+    background-color: darkblue;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h4 {
+    color: white;
+    background-color: darkgreen;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.giphy-embed, .recipe-photos {
+    border: 1px round darkblue;
+}
+
+.recipe-lists {
+    color: white;
+    background-color: coral;
+    font-family: Arial, Helvetica, sans-serif;
+    list-style-type: none;
+}
+
+#buffalo-wings {
+    color: bisque;
+    background-color: brown;
+}
+
+#pepperoni-dip {
+    color: antiquewhite;
+    background-color: yellow;
+}
+
+#chicken-taco {
+    color: whitesmoke;
+    background-color: yellowgreen;
+}
+
+p {
+    background-color: green;
+    color: white;
+}
+
+.ingredients-lists {
+    background-color: blue;
+    color: white;
+}
+
+.steps-lists {
+    background-color: violet;
+    color: white;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    background-color: blue;
+}
